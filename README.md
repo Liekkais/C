@@ -1,2 +1,2 @@
-# C-C-
+# C/C++
 Share some learning experiences
